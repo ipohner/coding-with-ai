@@ -47,8 +47,17 @@ excel at common patterns but can confidently produce incorrect code for novel
 or complex problems. **Always verify AI-generated code**.
 :::
 
+:::{admonition} Richard Stallman's view on "AI"
+:class: tip
+
+"So I've come up with the term Pretend Intelligence. We could call it PI. And if we start saying this more often, we might help overcome this marketing hype campaign that wants people to trust those systems, and trust their lives and all their activities to the control of those systems and the big companies that develop and control them."
+
+- [Dr. Richard Stallman cited in Slashdot](https://news.slashdot.org/story/26/01/25/1930244/richard-stallman-critiques-ai-connected-cars-smartphones-and-drm)
+:::
+
 :::{admonition} Practitioner's perspective: Simon Willison
 :class: tip
+
 
 *"My current favorite mental model is to think of them as an over-confident
 pair programming assistant who's lightning fast at looking things up, can
