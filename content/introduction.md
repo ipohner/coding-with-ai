@@ -134,7 +134,7 @@ Understanding what data models are trained on helps us understand their
 capabilities and limitations.
 
 :::{warning}
-The summaries below were genrated with Claude. They need to be manually verified.
+The summaries below were generated with Claude. They need to be manually verified.
 :::
 
 ### The Stack (BigCode Project)
