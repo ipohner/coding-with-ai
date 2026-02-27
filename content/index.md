@@ -9,19 +9,10 @@ AI coding assistants in their day-to-day software work with research.  The framw
 user control, helping you make informed decisions about which approach fits your needs.
 
 
+```{figure} img/scenarios.png
+:alt: three scenarios chat-based, IDE integration, and agentic use of AI
+:width: 100%
 ```
-+------------------+     +------------------+     +------------------+
-|  Scenario I      |     |  Scenario II     |     |  Scenario III    |
-|  Full Control    |     |  IDE Integration |     |  Agentic AI      |
-|                  |     |                  |     |                  |
-|  Chat + manual   |     |  Tab completion  |     |  Autonomous      |
-|  copy/paste      |     |  inline suggest  |     |  code agents     |
-|                  |     |                  |     |                  |
-|  LOW RISK        |     |  MEDIUM RISK     |     |  HIGH RISK       |
-|  HIGH CONTROL    |     |  MEDIUM CONTROL  |     |  LOW CONTROL     |
-+------------------+     +------------------+     +------------------+
-```
-*ASCII created with Claude. It should be replaced with an image*
 
 
 :::{prereq}
